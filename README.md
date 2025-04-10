@@ -1,1 +1,2 @@
 # Automatic-Washing-Machine
+This project simulates an automatic washing machine using FSM-based digital design. It handles key operations like wash, rinse, spin, and drain cycles based on control inputs and timing logic. Developed in Verilog/VHDL, it is suitable for FPGA implementation and demonstrates concepts in sequential logic, timing control, and state transitions. Additional features like door lock sensors, water level detection, and load balancing can be integrated for real-world complexity
